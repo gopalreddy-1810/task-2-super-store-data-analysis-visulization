@@ -1,4 +1,5 @@
 Task 2 – Data Analysis and Visualization
+
 📌 Project Overview
 
 This project performs exploratory data analysis (EDA) on the Sample - Superstore dataset using Python. The notebook examines sales, profit, quantity, discount, categories, regions, customer segments, products, and time-based sales trends.
