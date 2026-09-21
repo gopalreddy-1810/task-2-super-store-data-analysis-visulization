@@ -160,10 +160,16 @@ Place Sample - Superstore.csv in the same folder as the notebook and run the not
 📁 Project Structure
 
 Task-2/
+
 │
+
 ├── Task_2.ipynb
+
 ├── Sample - Superstore.csv
+
 └── README.md
+
+
 👩‍💻 Author
 Yeresi Venkata Ramagopal Reddy
 
